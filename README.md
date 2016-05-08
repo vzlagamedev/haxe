@@ -86,3 +86,11 @@ Java Runtime Environment de Oracle.
  - Abrir HaxeDevelop e instalar Haxe y Neko.
  - Abrir una línea de comandos e instalar OpenFL (o Snowkit) escribiendo "haxelib install openfl"
  - Revisar la documentación de OpenFL o de Snowkit para comenzar a hacer un proyecto.
+
+## Aplicaciones de ejemplo
+
+Varios repositorios en Github que tienen juegos hechos en Haxe:
+
+ - La culpa es de Clotilde: [https://github.com/chiguire/vdjam](https://github.com/chiguire/vdjam) (Juego en [https://chiguire.itch.io/clotilde](https://chiguire.itch.io/clotilde), Flash)
+ - Spirit Trap: [https://github.com/chiguire/saeggj16](https://github.com/chiguire/saeggj16) (Juego en [https://chiguire.itch.io/spirit-trap](https://chiguire.itch.io/spirit-trap), HTML5)
+ - Locating Mimo: [https://github.com/chiguire/locatingmimo](https://github.com/chiguire/locatingmimo) (Juego en [https://chiguire.itch.io/locating-mimo](https://chiguire.itch.io/locating-mimo), Flash)
